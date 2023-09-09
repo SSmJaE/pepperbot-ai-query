@@ -1,0 +1,10 @@
+[tool.pdm]
+
+[project]
+authors         = [{ name = "SSmJaE", email = "ssmjae327@gmail.com" }]
+dependencies    = ["pepperbot>=0.3.7"]
+description     = ""
+license         = { text = "MIT" }
+name            = "pepperbot-ai-query"
+requires-python = ">=3.8"
+version         = "0.0.2"
